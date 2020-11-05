@@ -1,0 +1,24 @@
+package com;
+
+import com.bill.BillingImpl;
+
+public class Test {
+
+	public static void main(String[] args) {
+
+		String[] cart1 = { "I01", "I02", "I03" };
+		String[] cart2 = { "I01", "I02" };
+
+		BillingImpl biller = new BillingImpl();
+
+		double total = biller.getCartTotal(cart1);
+
+		System.out.println("Cart1 Total: " + total);
+
+		total = biller.getCartTotal(cart2);
+
+		System.out.println("Cart2 Total: " + total);
+
+	}
+
+}

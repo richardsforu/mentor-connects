@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 packages to &apos;Spring-Shop/src/main/java&apos;&#x0A;- Original project: &apos;Shop-App&apos;&#x0A;- Destination element: &apos;Spring-Shop/src/main/java&apos;&#x0A;- Original elements:&#x0A;     Shop-App/src/com.bill&#x0A;     Shop-App/src/com.pricematrix" description="Copy packages" destination="=Spring-Shop/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src&lt;com.bill" element2="/src&lt;com.pricematrix" flags="589830" fragments="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1604578604500" version="1.0"/>
+</session>
